@@ -90,7 +90,8 @@ label{
     width: 16rem;
     height: 9rem;
     background-color: #2A2A2A;
-    margin-top: 13rem;
+    margin-top: 11rem;
+    margin-left: 14rem;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
